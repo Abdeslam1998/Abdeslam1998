@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm GHOUL Abdeslam</h1>
-<h3 align="center">Future ingénieur en informatique (Web & Multimédia)</h3>
+<h1 align="center">Bonjour 👋,je m'appel GHOUL Abdeslam</h1>
+<h3 align="center">Ingénieur en informatique</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Pour me contacter :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdeslam ghoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdeslam ghoul" height="30" width="40" /></a>
 <a href="https://fb.com/àbdéslâm ghôül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="àbdéslâm ghôül" height="30" width="40" /></a>
