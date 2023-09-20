@@ -6,7 +6,8 @@
 <a href="https://linkedin.com/in/abdeslam ghoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdeslam ghoul" height="30" width="40" /></a>
 <a href="https://fb.com/àbdéslâm ghôül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="àbdéslâm ghôül" height="30" width="40" /></a>
 <a href="https://instagram.com/abssou_ghoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abssou_ghoul" height="30" width="40" /></a>
-  Tél : (TN) : +216 54 036 711
+  <br />
+  Tél : (TN) : +216 54 036 711 <br />
         (FR) : +33 7 51 52 26 83 
 </p>
 
